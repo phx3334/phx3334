@@ -60,10 +60,8 @@
     <img alt="github contribution snake" src="https://raw.githubusercontent.com/phx3334/phx3334/output/github-contribution-grid-snake.svg" />
   </picture>
 </p> -->
-
 ## 🤝 Let's Connect
-
-<div align="center" style="display:flex; align-items:center; justify-content:center; gap:20px; flex-wrap:wrap;">
+<div style="display:flex; align-items:center; justify-content:flex-start; gap:24px; max-width:460px; margin:0 auto; flex-wrap:wrap;">
   <div>
     <a href="mailto:1173604833@qq.com"><img src="https://img.shields.io/badge/QQ%20Mail-12B7F5?style=for-the-badge&logo=tencentqq&logoColor=white" alt="email" /></a><br>
     <a href="https://space.bilibili.com/3546572805638200"><img src="https://img.shields.io/badge/Bilibili-00AEEC?style=for-the-badge&logo=bilibili&logoColor=white" alt="bilibili" /></a>
@@ -71,7 +69,7 @@
     <!-- <a href="https://twitter.com/yourname"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a> -->
     <!-- <a href="https://blog.yourname.com"><img src="https://img.shields.io/badge/Blog-0A0A0A?style=for-the-badge&logo=gitbook&logoColor=white" /></a> -->
   </div>
-  <img src="./images/老八.jpg" width="150" style="border-radius:16px;box-shadow:0 4px 12px rgba(0,0,0,0.15);" alt="老八" />
+  <img src="./images/老八.jpg" width="200" style="border-radius:16px;box-shadow:0 4px 12px rgba(0,0,0,0.15);" alt="老八" />
 </div>
 
 <p align="center">
