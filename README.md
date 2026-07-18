@@ -1,16 +1,80 @@
-## Hi there 👋
+<h1 align="center">Hi there 👋 I'm a human</h1>
 
-<!--
-**phx3334/phx3334** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <a href="https://github.com/phx3334">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub+Profile+%F0%9F%9A%80;热爱代码+%7C+热爱生活+%7C+保持好奇+%F0%9F%94%A5;Building+something+cool+every+day+%E2%9C%A8" alt="Typing SVG" />
+  </a>
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=phx3334&label=Profile%20views&color=36BCF7&style=flat-square" alt="profile views" />
+  <img src="https://img.shields.io/badge/Focus-Code%20%26%20Life-36BCF7?style=flat-square" alt="focus" />
+  <img src="https://img.shields.io/badge/Status-Always%20Learning-36BCF7?style=flat-square" alt="status" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🧑‍💻 About Me
+  
+> _"Maybe not today,maybe not tomorrow,maybe not next month,but one day..."_ 
+
+我是一名喜欢折腾的计算机大学生 🛠️，热爱计算机的世界，喜欢捣鼓一些新奇的东西。
+
+- 🔭 目前正在探索：**Go 后端服务 / 云原生架构 / Vue3 前端应用**
+- 🌱 正在学习：**更多工程实践与系统设计**
+- 💬 欢迎找我聊：**编程, 游戏，动漫**
+
+---
+
+## 🛠️ Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=go,cpp,vue,linux,docker,kubernetes,bash,git,vscode&theme=light" alt="tech stack" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" alt="go" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" alt="cpp" />
+  <img src="https://img.shields.io/badge/Vue%203-42B883?style=flat-square&logo=vue.js&logoColor=white" alt="vue3" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="linux" />
+  <img src="https://img.shields.io/badge/Cloud%20Native-326CE5?style=flat-square&logo=cloudnative&logoColor=white" alt="cloud native" />
+</p>
+
+---
+
+<!-- ## 📊 GitHub Stats
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=phx3334&show_icons=true&theme=blue-green&hide_border=true&include_all_commits=true&count_private=true" alt="phx3334's stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=phx3334&layout=compact&theme=blue-green&hide_border=true&langs_count=8" alt="top languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=phx3334&theme=blue-green&hide_border=true" alt="streak stats" />
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/phx3334/phx3334/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/phx3334/phx3334/output/github-contribution-grid-snake.svg" />
+    <img alt="github contribution snake" src="https://raw.githubusercontent.com/phx3334/phx3334/output/github-contribution-grid-snake.svg" />
+  </picture>
+</p> -->
+
+## 🤝 Let's Connect
+
+<p align="center">
+  <a href="mailto:1173604833@qq.com"><img src="https://img.shields.io/badge/QQ%20Mail-12B7F5?style=for-the-badge&logo=tencentqq&logoColor=white" alt="email" /></a>
+  <a href="https://space.bilibili.com/3546572805638200"><img src="https://img.shields.io/badge/Bilibili-00AEEC?style=for-the-badge&logo=bilibili&logoColor=white" alt="bilibili" /></a>
+  <!-- 在这里继续添加你其他的社交链接 -->
+  <!-- <a href="https://twitter.com/yourname"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a> -->
+  <!-- <a href="https://blog.yourname.com"><img src="https://img.shields.io/badge/Blog-0A0A0A?style=for-the-badge&logo=gitbook&logoColor=white" /></a> -->
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=36BCF7&height=120&section=footer" alt="footer" />
+</p>
+
+<p align="center">
+  <img src="./images/老八.jpg" width="220" style="border-radius:16px;" alt="老八" />
+</p>
