@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://github.com/phx3334">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub+Profile+%F0%9F%9A%80;热爱代码+%7C+热爱生活+%7C+保持好奇+%F0%9F%94%A5;Building+something+cool+every+day+%E2%9C%A8" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub+Profile+%F0%9F%9A%80;%E7%83%AD%E7%88%B1%E4%BB%A3%E7%A0%81+%7C+%E7%83%AD%E7%88%B1%E7%94%9F%E6%B4%BB+%7C+%E4%BF%9D%E6%8C%81%E5%A5%BD%E5%A5%87+%F0%9F%94%A5;Building+something+cool+every+day+%E2%9C%A8" alt="Typing SVG" />
   </a>
 </p>
 
@@ -63,18 +63,19 @@
 
 ## 🤝 Let's Connect
 
-<p align="center">
-  <a href="mailto:1173604833@qq.com"><img src="https://img.shields.io/badge/QQ%20Mail-12B7F5?style=for-the-badge&logo=tencentqq&logoColor=white" alt="email" /></a>
-  <a href="https://space.bilibili.com/3546572805638200"><img src="https://img.shields.io/badge/Bilibili-00AEEC?style=for-the-badge&logo=bilibili&logoColor=white" alt="bilibili" /></a>
-  <!-- 在这里继续添加你其他的社交链接 -->
-  <!-- <a href="https://twitter.com/yourname"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a> -->
-  <!-- <a href="https://blog.yourname.com"><img src="https://img.shields.io/badge/Blog-0A0A0A?style=for-the-badge&logo=gitbook&logoColor=white" /></a> -->
-</p>
+<div align="center" style="display:flex; align-items:center; justify-content:center; gap:20px; flex-wrap:wrap;">
+  <div>
+    <a href="mailto:1173604833@qq.com"><img src="https://img.shields.io/badge/QQ%20Mail-12B7F5?style=for-the-badge&logo=tencentqq&logoColor=white" alt="email" /></a><br>
+    <a href="https://space.bilibili.com/3546572805638200"><img src="https://img.shields.io/badge/Bilibili-00AEEC?style=for-the-badge&logo=bilibili&logoColor=white" alt="bilibili" /></a>
+    <!-- 在这里继续添加你其他的社交链接 -->
+    <!-- <a href="https://twitter.com/yourname"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a> -->
+    <!-- <a href="https://blog.yourname.com"><img src="https://img.shields.io/badge/Blog-0A0A0A?style=for-the-badge&logo=gitbook&logoColor=white" /></a> -->
+  </div>
+  <img src="./images/老八.jpg" width="150" style="border-radius:16px;box-shadow:0 4px 12px rgba(0,0,0,0.15);" alt="老八" />
+</div>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=36BCF7&height=120&section=footer" alt="footer" />
 </p>
 
-<p align="center">
-  <img src="./images/老八.jpg" width="220" style="border-radius:16px;" alt="老八" />
-</p>
+<p align="center"><sub>© 2026 phx3334 · Made with ❤️ and ☕</sub></p>
