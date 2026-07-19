@@ -16,7 +16,7 @@
 
 ## 🧑‍💻 About Me
   
-> _"Maybe not today,maybe not tomorrow,maybe not next month,but one day..."_ 
+> _"Maybe not today,maybe not tomorrow,maybe not next month,but one day...I will be a CS master"_ 
 
 我是一名喜欢折腾的计算机大学生 🛠️，热爱计算机的世界，喜欢捣鼓一些新奇的东西。
 
